@@ -10,5 +10,5 @@ dependencies:
 - rasterstats
 - requests
 - folium
-- seaborn
+- matplotlib=2
 - jupyter
